@@ -1,19 +1,32 @@
+aid: propublica
 name: ProPublica Data Store
 description: >-
   Enhance your own applications with fast, reliable access to the data that
-  powers our newsroom.  https://www.propublica.org/datastore/apis
-url: >-
-  https://raw.githubusercontent.com/api-search/news/main/_apis/propublica/apis.md
-created: 2024/04/14
-modified: '2024-07-03'
-specificationVersion: '0.18'
+  powers our newsroom.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Bookmarks
+  - News
+  - Data
+  - Journalism
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/propublica/refs/heads/main/apis.yml
+created: '2024-04-14'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis:
-  - name: ProPublica Data Store
+  - aid: propublica:propublica
+    name: ProPublica Data Store
     description: >-
       Enhance your own applications with fast, reliable access to the data that
-      powers our newsroom.  https://www.propublica.org/datastore/apis
+      powers our newsroom.
+    humanURL: https://www.propublica.org/datastore/apis
+    tags:
+      - News
+      - Data
+    properties:
+      - type: Documentation
+        url: https://www.propublica.org/datastore/apis
 maintainers:
-  - FN: API Evangelist
-    email: info@apievangelist.com
+  - FN: Kin Lane
+    email: kin@apievangelist.com
