@@ -6,9 +6,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - News
   - Data
   - Journalism
+  - News
 url: >-
   https://raw.githubusercontent.com/api-evangelist/propublica/refs/heads/main/apis.yml
 created: '2024-04-14'
@@ -22,8 +22,8 @@ apis:
       powers our newsroom.
     humanURL: https://www.propublica.org/datastore/apis
     tags:
-      - News
       - Data
+      - News
     properties:
       - type: Documentation
         url: https://www.propublica.org/datastore/apis
