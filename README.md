@@ -5,18 +5,16 @@ Enhance your own applications with fast, reliable access to the data that powers
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
 
 ## Tags:
 
- - News, Data, Journalism
+ - Data, Journalism, News
 
 ## Timestamps
 
-- **Created:** 2024-04-14 
-- **Modified:** 2026-03-16 
+- **Created:** 2024-04-14
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -28,7 +26,7 @@ Enhance your own applications with fast, reliable access to the data that powers
 
 #### Tags:
 
- - News, Data
+ - Data, News
 
 #### Properties
 
