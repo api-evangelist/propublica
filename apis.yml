@@ -35,6 +35,12 @@ created: '2024-04-14'
 modified: '2026-09-16'
 specificationVersion: '0.23'
 common:
+- type: Plans
+  url: plans/propublica-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/propublica-rate-limits.yml
+- type: FinOps
+  url: finops/propublica-finops.yml
 - type: Website
   url: https://propublica.org
 - type: DomainSecurity
